@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shash09090
-- 👀 I’m interested in CSE
-- 🌱 I’m currently learning Basic programming skills by Harvard CS50
+- 👋 Hi, I’m @Shash09090.
+- 👀 I’m interested in CSE.
+- 🌱 I’m currently learning Basic python.
 - 💞️ I’m looking to collaborate on pretty much anything, I dont know as long as I can learn and grow.
 - 📫 How to reach me:
 - Gmail: Shashwatupadhayaya@gmail.com
